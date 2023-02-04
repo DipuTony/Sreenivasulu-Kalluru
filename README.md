@@ -1,5 +1,5 @@
 # Hello👋, 
-## I am a **WEB DEVELOPER** ##
+## I am a **Sreenivasulu Kalluru** ##
 I am a developer who is currently enrolled in iNeuron's FSJS2.0 Bootcamp.I am looking forward to create amazing projects in the Web Development Domain.
 
 ## **Blog Website** ##
