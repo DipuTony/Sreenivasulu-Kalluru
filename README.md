@@ -11,7 +11,7 @@ I am a developer who is currently enrolled in iNeuron's FSJS2.0 Bootcamp.I am lo
 <a href="https://www.instagram.com/iam_vs24/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-d62976?style=flat-square&logo=instagram"></a>
 <a href="https://www.facebook.com/vasu.kalluru24"><img alt="facebook" src="https://img.shields.io/badge/Facebook-Follow%20Me-3b5998?style=flat-square&logo=facebook"></a>
 
- ## Tools / Languages:
+ ## Languages and Tools
 
 These are the tools and languages that I have worked with and have experience about using them.
 
