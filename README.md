@@ -1,6 +1,6 @@
 # Hello👋, 
 ## I am **Sreenivasulu Kalluru** ##
-I am a developer who is currently enrolled in iNeuron's FSJS2.0 Bootcamp.I am looking forward to create amazing projects in the Web Development Domain.
+I am a Web Developer who is currently enrolled in iNeuron's FSJS 2.0 Bootcamp. I am looking forward to create amazing projects in the Web Development Domain.
 
 ## **Blog Website** ##
 <a href="https://hashnode.com/@VasuK24"><img alt="Blog Website" src="https://img.shields.io/badge/Blog-Visit-2962ff?style=flat-square&logo=hashnode"></a>
