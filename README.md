@@ -2,7 +2,7 @@
 I am a developer who is currently enrolled in iNeuron's FSJS2.0 Bootcamp.I am looking forward to create amazing projects in the Web Development Domain.
 
 ## **Blog Website** ##
-<a href="https://hashnode.com/@VasuK24"><img alt="Blog Website" src="https://img.shields.io/badge/Blog-Visit%20It-yellow?style=flat-square&logo=hashnode"></a>
+<a href="https://hashnode.com/@VasuK24"><img alt="Blog Website" src="https://img.shields.io/badge/Blog-Visit%20It-2962ff?style=flat-square&logo=hashnode"></a>
 
 ## **Socials** ##
 <a href="https://twitter.com/vasuk24"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Twitter%20Link-blue?style=flat-square&logo=twitter"></a>
