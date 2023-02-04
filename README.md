@@ -22,6 +22,7 @@ These are the tools and languages that I have worked with and have experience ab
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=tailwindcss&logoColor=007ACC)
 ![React JS](https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=007ACC)
+![Node JS](https://img.shields.io/badge/-Node-black?style=flat&logo=react&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
