@@ -6,7 +6,7 @@ I am a Web Developer who is currently enrolled in **[iNeuron](https://ineuron.ai
 <a href="https://hashnode.com/@VasuK24"><img alt="Blog Website" src="https://img.shields.io/badge/Blog-Visit-2962ff?style=flat-square&logo=hashnode"></a>
 
 ## **Socials** ##
-<a href="https://twitter.com/vasuk24"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Tweet%20Me-blue?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/vasuk24"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Tweet%20Me-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="vaasuk24@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Mail%20To%20Me-c71610?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/vasu-k-8069201b0"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Connect%20With%20Me-0e76a8?style=flat-square&logo=linkedin"></a>
 
