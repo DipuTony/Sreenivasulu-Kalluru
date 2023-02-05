@@ -3,7 +3,7 @@
 I am a Web Developer who is currently enrolled in **[iNeuron](https://ineuron.ai/ 'iNeuron')'s [Full Stack JavaScript Bootcamp 2.0](https://ineuron.ai/course/Full-Stack-JavaScript-Bootcamp-2.0 'FSJS 2.0')** course, which is undertaken By **[Hitesh Choudhary](https://hiteshchoudhary.com/ 'Hitesh Choudhary')** Sir. I am looking forward to create amazing projects in the Web Development Domain.
 
 ## **Blog Website** ##
-<a href="https://hashnode.com/@VasuK24"><img alt="Blog Website" src="https://img.shields.io/badge/Blog-Visit-2962ff?style=flat-square&logo=hashnode"></a>
+<a href="https://hashnode.com/@VasuK24"><img alt="Blog Website" src="https://img.shields.io/badge/Hashnode-Follow%20Me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 
 ## **Socials** ##
 <a href="https://twitter.com/vasuk24"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Tweet%20Me-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
