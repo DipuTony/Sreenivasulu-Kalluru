@@ -9,9 +9,8 @@ I am a Web Developer who is currently enrolled in **[iNeuron](https://ineuron.ai
 <a href="https://twitter.com/vasuk24"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Tweet%20Me-blue?style=flat-square&logo=twitter"></a>
 <a href="vaasuk24@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Mail%20To%20Me-c71610?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/vasu-k-8069201b0"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Connect%20With%20Me-0e76a8?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/iam_vs24/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-d62976?style=flat-square&logo=instagram"></a>
 
-<a href="https://www.instagram.com/iam_vs24/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-d62976?style=flat-square&logo=instagram"></a>
+<a href="https://www.facebook.com/vasu.kalluru24/"><img alt="facebook" src="https://img.shields.io/badge/Facebook-Follow%20Me-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 
 <a href="https://www.instagram.com/iam_vs24/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
