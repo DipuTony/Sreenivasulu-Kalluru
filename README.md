@@ -8,7 +8,7 @@ I am a Web Developer who is currently enrolled in **[iNeuron](https://ineuron.ai
 ## **Socials** ##
 <a href="https://twitter.com/vasuk24"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Tweet%20Me-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
-<a href="vaasuk24@gmail.com"><img alt="G-Mail" src="https://img.shields.io/badge/Gmail-Mail%20To%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto: vaasuk24@gmail.com"><img alt="G-Mail" src="https://img.shields.io/badge/Gmail-Mail%20To%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <a href="https://www.linkedin.com/in/vasu-k-8069201b0"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-Connect%20With%20Me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
