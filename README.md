@@ -16,6 +16,8 @@ I am a Web Developer who is currently enrolled in **[iNeuron](https://ineuron.ai
 
 <a href="https://twitter.com/vasuk24"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Tweet%20Me-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sreenivasulu-Kalluru&theme=codestackr&hide_border=true)](https://git.io/streak-stats)
+
  ## Languages, Tools & Technologies
 
 These are the tools and languages that I have worked with and have experience about using them.
