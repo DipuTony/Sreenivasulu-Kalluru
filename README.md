@@ -4,8 +4,6 @@ I am a Web Development Enthusiast who is currently enrolled in **[iNeuron](https
 
 ![](https://komarev.com/ghpvc/?username=Sreenivasulu-Kalluru&color=E83A59&style=for-the-badge)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreenivasulu-Kalluru&show_icons=true&theme=aura_dark&border_color=252334)
-
 ## **Blog Website** ##
 <a href="https://hashnode.com/@VasuK24"><img alt="Blog Website" src="https://img.shields.io/badge/Hashnode-Follow%20Me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 
@@ -51,4 +49,6 @@ These are the tools and languages that I have worked with and have experience ab
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sreenivasulu-Kalluru&theme=aura-dark&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreenivasulu-Kalluru&show_icons=true&theme=aura_dark&border_color=252334)
 
