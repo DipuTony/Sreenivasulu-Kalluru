@@ -4,7 +4,7 @@ I am a Web Development Enthusiast who is currently enrolled in **[iNeuron](https
 
 ![](https://komarev.com/ghpvc/?username=Sreenivasulu-Kalluru&color=E83A59&style=for-the-badge)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreenivasulu-Kalluru&show_icons=true&theme=aura_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreenivasulu-Kalluru&show_icons=true&theme=aura_dark&border_color=transparent)
 
 ## **Blog Website** ##
 <a href="https://hashnode.com/@VasuK24"><img alt="Blog Website" src="https://img.shields.io/badge/Hashnode-Follow%20Me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
