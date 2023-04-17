@@ -2,7 +2,9 @@
 
 I am a Web Development Enthusiast who is currently enrolled in **[iNeuron](https://ineuron.ai/ 'iNeuron')'s [Full Stack JavaScript Bootcamp 2.0](https://ineuron.ai/course/Full-Stack-JavaScript-Bootcamp-2.0 'FSJS 2.0')** course, which is undertaken By **[Hitesh Choudhary](https://hiteshchoudhary.com/ 'Hitesh Choudhary')** Sir. I am looking forward to create amazing projects in the Web Development Domain.
 
-![](https://komarev.com/ghpvc/?username=Sreenivasulu-Kalluru&color=FF4331, D31A50&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Sreenivasulu-Kalluru&color=180 FF4331, D31A50&style=for-the-badge)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreenivasulu-Kalluru&show_icons=true&theme=radical)
 
 ## **Blog Website** ##
 <a href="https://hashnode.com/@VasuK24"><img alt="Blog Website" src="https://img.shields.io/badge/Hashnode-Follow%20Me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
